@@ -14,7 +14,6 @@ Boilerplate:
        name="viewport" 
        content="width=device-width, initial-scale=1"
     <!---Add metadata-->
-    <!--note: must make it responsive to all devices' access-->
     <title>SO MANY SHELBYS</title>
     <link rel="stylesheet" href="styles.css" />
     <nav class= "navbar">
@@ -32,6 +31,7 @@ Boilerplate:
  <h1>Made with rigidity and free-flowing fluidity...flugidity? Ruidity?... Bahhh, oui!</h1>
   <figure>
          <img src="C:\Users\pazja\OneDrive\Documents\OneDrive\Pictures\P1042121.jpg" alt="Late afternoon at a pier in San Francisco.">
+  </figure>
          <img src="C:\Users\pazja\OneDrive\Documents\OneDrive\Pictures\P1041355.jpg" alt="Doing a back bridge atop the Golden Gate bridge vista, north of it.">
          <img src="C:\Users\pazja\OneDrive\Documents\OneDrive\Pictures\DSC06308.jpg" alt="Two skateboarders opposite from each other at Washington Sq Park as a march looms.">
          <img src="C:\Users\pazja\OneDrive\Documents\OneDrive\Pictures\djdebs.JPG" alt="Rooftop DJ in downtown Brooklyn.">
