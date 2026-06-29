@@ -10,7 +10,7 @@
 <body>
   <p> Because I love life's inexpectances </p>
   <figure>
-    <img src="C:\Users\pazja\OneDrive\Documents\OneDrive\CoolArtz!\IMG_4170.JPG" alt="A photo on a moving elevated train looking down to the hustling street with the word -Flames- written across the center.">
+    <img src="C:\Users\pazja\OneDrive\Documents\OneDrive\CoolArtz!\IMG_4170.jpg" alt="A photo on a moving elevated train looking down to the hustling street with the word -Flames- written across the center.">
     <img src="C:\Users\pazja\OneDrive\Documents\OneDrive\CoolArtz!\IMG_0712.jpeg" alt="A red flower with the word -Always- circumnavigating it.">
     <img src="C:\Users\pazja\OneDrive\Documents\OneDrive\CoolArtz!\IMG_0717.jpeg" alt="A photo of the sunset sky over Astoria, NY, with the Latin expression -Solvitur ambulando- written across the overhead electrical lines.">
     <img src="C:\Users\pazja\OneDrive\Documents\OneDrive\CoolArtz!\Austericity.png" alt="Frames of an image of midtown Manhattan compiled together around the newly-composed word -Asutericity-.">
