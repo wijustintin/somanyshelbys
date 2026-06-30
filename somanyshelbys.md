@@ -30,7 +30,7 @@ Boilerplate:
 
  <h1>Made with rigidity and free-flowing fluidity...flugidity? Ruidity?... Bahhh, oui!</h1>
   <figure>
-         <img src="SoMany.Shelbys\DSC03072.jpg" alt="Late afternoon at a pier in San Francisco.">
+         <img src="C:\Users\pazja\OneDrive\Documents\OneDrive\SoMany.Shelbys\DSC03072.jpg" alt="Late afternoon at a pier in San Francisco.">
   </figure>
          <img src="C:\Users\pazja\OneDrive\Documents\OneDrive\Pictures\P1041355.jpg" alt="Doing a back bridge atop the Golden Gate bridge vista, north of it.">
          <img src="C:\Users\pazja\OneDrive\Documents\OneDrive\Pictures\DSC06308.jpg" alt="Two skateboarders opposite from each other at Washington Sq Park as a march looms.">
