@@ -1,0 +1,31 @@
+body {
+    font-family: 'jost';
+    background-color: black;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #140;
+    padding-bottom: 20px;
+    padding-top: 12px;
+    color:olivedrab
+}
+
+.nav-links {
+    list-style: georgian;
+    display: flex;
+    gap: 3rem;
+}
+
+.nav-links a {
+    color:lightgray;
+    text-decoration-skip-ink: all;
+    font-weight:lighter;
+    transition: 0.2s ease-in
+}
+
+.nav-links a:hover {
+    color: #ff3992
+}
